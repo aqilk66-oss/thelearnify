@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 80" width="280" height="80">
+  <rect width="280" height="80" fill="#0B0B0B" rx="8"/>
+  <!-- "The" text -->
+  <text x="16" y="30" font-family="Poppins, sans-serif" font-size="18" font-weight="400" fill="#ffffff" opacity="0.8">The</text>
+  <!-- "Learnify" main text -->
+  <text x="16" y="58" font-family="Poppins, sans-serif" font-size="36" font-weight="800" fill="#4CAF50">Learnify</text>
+  <!-- Color bar dots -->
+  <rect x="16" y="65" width="12" height="5" rx="2.5" fill="#F44336"/>
+  <rect x="32" y="65" width="12" height="5" rx="2.5" fill="#2196F3"/>
+  <rect x="48" y="65" width="12" height="5" rx="2.5" fill="#FFC107"/>
+  <rect x="64" y="65" width="12" height="5" rx="2.5" fill="#4CAF50"/>
+  <rect x="80" y="65" width="24" height="5" rx="2.5" fill="#ffffff" opacity="0.6"/>
+</svg>
